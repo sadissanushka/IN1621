@@ -1,0 +1,2 @@
+GRANT ALL PRIVILEGES ON library_db.* TO 'user'@'%';
+FLUSH PRIVILEGES;
